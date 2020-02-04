@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>{{ title }} </title>
+</head>
+<body>
+<div class="container">
+    <h2>Sales Funnel Report - National</h2>
+     {{ national_pivot_table }}
+    {% include "summary.html" %}
+</div>
+<div class="container">
+    {% for manager in Manager_Detail %}
+        <p style="page-break-before: always" ></p>
+        <h2>Sales Funnel Report - {{manager.0}}</h2>
+        {{manager.1}}
+        {% include "summary.html" %}
+    {% endfor %}
+</div>
+</body>
+</html>

@@ -1,0 +1,3 @@
+# Marketing_Campaign_Response_Prediction
+基于Adaboost算法,预测在下一次营销活动时，响应活动会员的具体名单和响应概率。
+
