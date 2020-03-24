@@ -17,3 +17,4 @@
 - 公众号：大邓和他的python
 - [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
 - [《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)，已经于近期重新录制上传
+- [中文文本数据(挖掘)分析相关资源汇总](https://github.com/thunderhit/ChineseTextAnalysisResouce)
