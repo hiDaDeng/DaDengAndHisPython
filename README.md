@@ -11,16 +11,9 @@
 
 之前我分享在公众号内的代码都是存放到百度网盘，这样大家查看代码或者下载都会存在各种不方便，今后的代码我就尽量尝试传到github，大家觉得我的内容不错的话，请多多支持，转发我的文章。
 
-# 大邓的python数据分析课
+# 更多
 
-《python网络爬虫与文本数据分析》，已经于近期重新录制上传，
-
-[点击这里查看课程详情](https://ke.qq.com/course/482241?tuin=163164df)
-
-
-
-# 更多资源教程
 - [B站:大邓和他的python](https://space.bilibili.com/122592901/channel/detail?cid=66008)
 - 公众号：大邓和他的python
 - [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
-
+- [《python网络爬虫与文本数据分析》](https://ke.qq.com/course/482241?tuin=163164df)，已经于近期重新录制上传
