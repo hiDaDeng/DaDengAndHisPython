@@ -13,17 +13,14 @@
 
 # 大邓的python数据分析课
 
-python网络爬虫与文本数据分析，已经于近期重新录制上传，
+《python网络爬虫与文本数据分析》，已经于近期重新录制上传，
 
-
-
-点击下方链接，微信扫码后查看
-
-https://ke.qq.com/course/482241?tuin=163164df
+[点击这里查看课程详情](https://ke.qq.com/course/482241?tuin=163164df)
 
 
 
 # 更多资源教程
-- B站:大邓和他的pythonB站
+- [B站:大邓和他的python](https://space.bilibili.com/122592901/channel/detail?cid=66008)
 - 公众号：大邓和他的python
-- 知乎专栏：数据科学家
+- [知乎专栏：数据科学家](https://zhuanlan.zhihu.com/dadeng)
+
