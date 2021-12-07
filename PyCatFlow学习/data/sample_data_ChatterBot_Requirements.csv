@@ -1,0 +1,104 @@
+column	items	category	column order
+2015-09-08	fuzzywuzzy	A_Requirements	1
+2015-09-08	requests	A_Requirements	1
+2015-09-08	requests-oauthlib	A_Requirements	1
+2015-09-08	pymongo	A_Requirements	1
+2015-09-08	jsondatabase	A_Requirements	1
+2016-09-08	jsondatabase	A_Requirements	2
+2016-09-08	sqlalchemy	A_Requirements	2
+2016-09-08	textblob	A_Requirements	2
+2016-09-08	nltk	A_Requirements	2
+2016-09-08	pymongo	A_Requirements	2
+2016-09-08	fuzzywuzzy	A_Requirements	2
+2016-09-08	python-twitter	A_Requirements	2
+2017-09-08	python-twitter	A_Requirements	3
+2017-09-08	pymongo	A_Requirements	3
+2017-09-08	jsondatabase	A_Requirements	3
+2017-09-08	chatterbot-corpus	A_Requirements	3
+2017-09-08	python-dateutil	A_Requirements	3
+2017-09-08	nltk	A_Requirements	3
+2017-09-08	sqlalchemy	A_Requirements	3
+2017-09-08	nose-exclude	B_Developers Requirements	3
+2017-09-08	pip	B_Developers Requirements	3
+2017-09-08	twine	B_Developers Requirements	3
+2017-09-08	twython	B_Developers Requirements	3
+2017-09-08	sphinx_rtd_theme	B_Developers Requirements	3
+2017-09-08	sphinx	B_Developers Requirements	3
+2017-09-08	factory-boy	B_Developers Requirements	3
+2017-09-08	nose	B_Developers Requirements	3
+2017-09-08	mock	B_Developers Requirements	3
+2017-09-08	flake8	B_Developers Requirements	3
+2017-09-08	coveralls	B_Developers Requirements	3
+2018-09-08	chatterbot-corpus	A_Requirements	4
+2018-09-08	mathparse	A_Requirements	4
+2018-09-08	nltk	A_Requirements	4
+2018-09-08	pymongo	A_Requirements	4
+2018-09-08	python-twitter	A_Requirements	4
+2018-09-08	sqlalchemy	A_Requirements	4
+2018-09-08	pint	A_Requirements	4
+2018-09-08	python-dateutil	A_Requirements	4
+2018-09-08	sphinx	B_Developers Requirements	4
+2018-09-08	sphinx_rtd_theme	B_Developers Requirements	4
+2018-09-08	twython	B_Developers Requirements	4
+2018-09-08	twine	B_Developers Requirements	4
+2018-09-08	nose	B_Developers Requirements	4
+2018-09-08	flake8	B_Developers Requirements	4
+2018-09-08	coveralls	B_Developers Requirements	4
+2018-09-08	factory-boy	B_Developers Requirements	4
+2019-09-08	pint	A_Requirements	5
+2019-09-08	mathparse	A_Requirements	5
+2019-09-08	nltk	A_Requirements	5
+2019-09-08	python-dateutil	A_Requirements	5
+2019-09-08	pyyaml	A_Requirements	5
+2019-09-08	spacy	A_Requirements	5
+2019-09-08	sqlalchemy	A_Requirements	5
+2019-09-08	pytz	A_Requirements	5
+2019-09-08	chatterbot-corpus	A_Requirements	5
+2019-09-08	coveralls	B_Developers Requirements	5
+2019-09-08	nose	B_Developers Requirements	5
+2019-09-08	twine	B_Developers Requirements	5
+2019-09-08	sphinx	B_Developers Requirements	5
+2019-09-08	sphinx_rtd_theme	B_Developers Requirements	5
+2019-09-08	spacy_en_core_web_sm-2.1.0	B_Developers Requirements	5
+2019-09-08	spacy_de_core_news_sm-2.1.0	B_Developers Requirements	5
+2019-09-08	pymongo	B_Developers Requirements	5
+2019-09-08	flake8	B_Developers Requirements	5
+2019-09-08	twython	B_Developers Requirements	5
+2020-09-08	pytz	A_Requirements	5
+2020-09-08	python-dateutil	A_Requirements	5
+2020-09-08	sqlalchemy	A_Requirements	5
+2020-09-08	mathparse	A_Requirements	5
+2020-09-08	pint	B_Developers Requirements	5
+2020-09-08	flake8	B_Developers Requirements	5
+2020-09-08	nltk	B_Developers Requirements	5
+2020-09-08	spacy_de_core_news_sm-2.1.0	B_Developers Requirements	5
+2020-09-08	twython	B_Developers Requirements	5
+2020-09-08	spacy	B_Developers Requirements	5
+2020-09-08	sphinx	B_Developers Requirements	5
+2020-09-08	sphinx_rtd_theme	B_Developers Requirements	5
+2020-09-08	pyyaml	B_Developers Requirements	5
+2020-09-08	chatterbot-corpus	B_Developers Requirements	5
+2020-09-08	spacy_en_core_web_sm-2.1.0	B_Developers Requirements	5
+2020-09-08	twine	B_Developers Requirements	5
+2020-09-08	pymongo	B_Developers Requirements	5
+2020-09-08	coveralls	B_Developers Requirements	5
+2020-09-08	nose	B_Developers Requirements	5
+2021-05-17	python-dateutil	A_Requirements	6
+2021-05-17	pytz	A_Requirements	6
+2021-05-17	mathparse	A_Requirements	6
+2021-05-17	sqlalchemy	A_Requirements	6
+2021-05-17	coveralls	B_Developers Requirements	6
+2021-05-17	flake8	B_Developers Requirements	6
+2021-05-17	nltk	B_Developers Requirements	6
+2021-05-17	nose	B_Developers Requirements	6
+2021-05-17	pint	B_Developers Requirements	6
+2021-05-17	pymongo	B_Developers Requirements	6
+2021-05-17	twine	B_Developers Requirements	6
+2021-05-17	twython	B_Developers Requirements	6
+2021-05-17	spacy	B_Developers Requirements	6
+2021-05-17	sphinx	B_Developers Requirements	6
+2021-05-17	sphinx_rtd_theme	B_Developers Requirements	6
+2021-05-17	pyyaml	B_Developers Requirements	6
+2021-05-17	chatterbot-corpus	B_Developers Requirements	6
+2021-05-17	spacy_en_core_web_sm-2.1.0	B_Developers Requirements	6
+2021-05-17	spacy_de_core_news_sm-2.1.0	B_Developers Requirements	6
